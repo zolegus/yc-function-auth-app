@@ -206,3 +206,7 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 yandex-cloud.md
+.terraform.lock.hcl
+function.zip
+terraform.tfstate
+.terraform/providers/registry.terraform.io
